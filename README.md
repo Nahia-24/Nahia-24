@@ -1,5 +1,13 @@
 <h2 align="left">Welcome!! My name is Nahia Sanchez</h2>
 
+## 🚀 About Me
+   I'm a 19-year-old Systems Engineering student at Universidad Santiago de Cali.
+💻 I work mainly on backend development and enjoy building efficient, scalable systems.
+🧠 I have experience with several programming languages, including Python, JavaScript, C#, C++, and PHP.
+🛠 I also work with frameworks like Laravel and Angular.
+🚀 Always learning and improving—excited to grow as a developer and take on new challenges!
+
+
 ###
 
 <div align="center">
@@ -39,6 +47,20 @@
   <a href="https://www.linkedin.com/in/nahia-montoya-sanchez-ba30a7339/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nahia-24.Nahia-24&right_color=darkviolet"  />
 </div>
 
 ###
