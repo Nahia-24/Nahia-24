@@ -3,7 +3,7 @@
 ## 🚀 About Me
    I'm a 19-year-old Systems Engineering student at Universidad Santiago de Cali. 
 💻 I specialize in frontend development and love building modern, responsive user interfaces. 
-🧠 I have experience with technologies like React, Vite, Tailwind CSS, and Angular. 🛠 I'm also familiar with several   programming languages including JavaScript, Python, C#, and PHP. 
+🧠 I have experience with technologies like React, Vite, Tailwind CSS, and Angular. 🛠 I'm also familiar with several              programming languages including JavaScript, Python, C#, and PHP. 
 🚀 Always learning and improving—excited to grow as a frontend developer and take on new challenges!
 
 ###
