@@ -6,17 +6,17 @@
 🧠 I have experience with technologies like React, Vite, Tailwind CSS, and Angular. 🛠 I'm also familiar with several              programming languages including JavaScript, Python, C#, and PHP. 
 🚀 Always learning and improving—excited to grow as a frontend developer and take on new challenges!
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nahia-24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
-###
+##
 
 <img align="right" height="150" src="https://imgflip.com/gif/9nhzj6"  />
 
-###
+##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,7 +35,7 @@
 
 </div>
 
-###
+##
 
 <div align="center">
   <a href="https://www.instagram.com/nia_tsd/" target="_blank">
@@ -52,13 +52,13 @@
   </a>
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31phswudeovewur2ylkpcgvr7cri" alt="Spotify recently played"  />
 </div>
 
-###
+##
 
 <br clear="both">
 
@@ -66,5 +66,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nahia-24.Nahia-24&right_color=darkviolet"  />
 </div>
 
-###
+##
 
