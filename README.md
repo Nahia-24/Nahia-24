@@ -8,16 +8,9 @@
 
 ##
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nahia-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahia-24&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+<div align="center"> 
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nahia-24&theme=tokyonight" /> 
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nahia-24&theme=tokyonight" /> 
 </div>
 
 ##
