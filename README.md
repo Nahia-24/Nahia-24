@@ -9,7 +9,15 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahia-24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nahia-24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahia-24&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </div>
 
 ##
@@ -40,9 +48,9 @@
   <a href="https://discordapp.com/users/433081973108506635" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-   
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  
+  <a href="mailto:nahiayeseniamontoyasanchez@gmail.com">
+     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
   <a href="https://www.linkedin.com/in/nahia-montoya-sanchez-ba30a7339/" target="_blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
